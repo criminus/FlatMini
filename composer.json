@@ -1,0 +1,21 @@
+{
+    "name": "criminus/flatmini",
+    "description": "A simple PHP forum using Twig, Iconify, Bootstrap and Javascript.",
+    "type": "project",
+    "require": {
+        "twig/twig": "^3.10"
+    },
+    "license": "GNU General Public License",
+    "autoload": {
+        "psr-4": {
+            "Criminus\\Flatmini\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "criminus",
+            "email": "neculaianisor@gmail.com"
+        }
+    ],
+    "minimum-stability": "beta"
+}
